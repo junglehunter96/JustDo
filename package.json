@@ -8,7 +8,7 @@
     "bulid": "cross-env NODE_ENV=production webpack --config webpack.config.js",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config webpack.config.js"
   },
-  "author": "",
+  "author": "junglehunter",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.4.4",
