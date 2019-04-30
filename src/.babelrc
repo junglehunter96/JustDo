@@ -1,0 +1,9 @@
+{
+  "presets":[
+    "env"
+  ],
+  "plugins":[
+    //转化vue中的jsx代码
+    "transform-vue-jsx"
+  ]
+}
